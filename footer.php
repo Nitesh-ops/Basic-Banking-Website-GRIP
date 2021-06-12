@@ -410,11 +410,9 @@ function showSlides() {
 
             <div class="footer-icons">
 
-                <a href="https://www.facebook.com/profile.php?id=100006027405875" class="fa fa-facebook" target="_blank"></a>
-                <a href="https://twitter.com/Nitesh8447?s=09" class="fa fa-twitter" target="_blank"></a>
-                <a href="https://www.linkedin.com/in/nitesh-singh-0bb145140/" target="_blank"><i class="fa fa-linkedin"></i></a>
-                <a href="https://github.com/Nitesh-ops" target="_blank"><i class="fa fa-github"></i></a>
-
+            <a href="#" class="fa fa-facebook"></a>
+            <a href="#" class="fa fa-twitter"></a>
+            <a href="#" class="fa fa-linkedin"></a>
             </div>
 
         </div>
