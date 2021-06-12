@@ -1,8 +1,13 @@
 <?php
-	$servername = "localhost";
+	/*$servername = "localhost";
 	$username = "root";
 	$password = "";
-	$dbname = "UPI_bank";
+	$dbname = "UPI_bank";*/
+
+	$servername = "remotemysql.com";
+	$username = "e9IpnahYdV";
+	$password = "K9nZR8KZ1v";
+	$dbname = "e9IpnahYdV";
     
 	$conn = mysqli_connect($servername, $username, $password, $dbname);
 
