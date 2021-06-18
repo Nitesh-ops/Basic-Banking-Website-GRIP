@@ -39,70 +39,17 @@ CREATE TABLE `new_account` (
 --
 
 INSERT INTO `new_account` (`id`, `name`, `email`, `amount`) VALUES
-(1, 'Salman', 'khan@gmail.com', 0),
-(2, 'Kiara', 'advani@gmail.com', 30000),
-(3, 'Shahrukh', 'shah@gmail.com', 2000),
-(4, 'Priyanka', 'chopra@gmail.com', 51500),
-(5, 'Shahid', 'kapoor@gmail.com', 45500),
-(6, 'Ranbir', 'singh@gmail.com', 30000),
-(7, 'Deepika', 'padukone@gmail.com', 51000),
-(8, 'Juhi', 'chawla@gmail.com', 40000),
-(9, 'Nick', 'jonas@gmail.com', 30000),
-(10, 'Taapsee', 'pannu@gmail.com', 55000),
-(11, 'Nitesh', 'niteshsingh.na44@gmail.com', 200000),
-(12, 'hilo', 'gug@gmail.com', 5000),
-(13, 'jiko', 'jiko@gmail.com', 25000),
-(14, 'swati kumari', 'swati123@gmail.com', 75000),
-(15, 'Ashish kerketta', 'ashishkerketta@gmail.com', 135000),
-(16, 'Sourav', 'sourav@gmail.com', 40000),
-(17, 'Niteshhh', 'jhahs@gmail.com', 7000),
-(18, 'Niteshhh', 'jhahs@gmail.com', 5000),
-(19, 'Niteshhh', 'jhahs@gmail.com', 5000),
-(20, 'Niteshhh', 'jhahs@gmail.com', 5000),
-(21, 'Niteshhh', 'jhahs@gmail.com', 5000),
-(22, 'hjjh', 'ghgh@gmail.com', 12000),
-(23, 'kljkj', 'ji@gmail.com', 15000),
-(24, 'bhh', 'hhjhj@gmail.com', 15000),
-(25, 'bhh', 'hhjhj@gmail.com', 15000),
-(26, 'kkm', 'jhnj@gmail.com', 45000),
-(27, 'kkm', 'jhnj@gmail.com', 45000),
-(28, 'kkm', 'jhnj@gmail.com', 45000),
-(29, 'kkm', 'jhnj@gmail.com', 45000),
-(30, 'kkm', 'jhnj@gmail.com', 45000),
-(31, 'kkm', 'jhnj@gmail.com', 45000),
-(32, 'kkm', 'jhnj@gmail.com', 45000),
-(33, 'kkm', 'jhnj@gmail.com', 45000),
-(34, 'jsdhjadha', 'hjasgdhas@gmail.com', 80000),
-(35, 'jsdhjadha', 'hjasgdhas@gmail.com', 80000),
-(36, 'jsdhjadha', 'hjasgdhas@gmail.com', 80000),
-(37, 'jsdhjadha', 'hjasgdhas@gmail.com', 80000),
-(38, 'jsdhjadha', 'hjasgdhas@gmail.com', 80000),
-(39, 'nitesh', 'jhkh@gmail.com', 5000),
-(40, 'nitesh', 'jhkh@gmail.com', 5000),
-(41, 'nitesh', 'jhkh@gmail.com', 3000),
-(42, 'nitesh', 'jhkh@gmail.com', 5000),
-(43, 'nmnmbn', 'bbbnm@gmail.com', 10000),
-(44, 'gfdfdg', 'sdadh@gmail.com', 5000),
-(45, 'gfdfdg', 'sdadh@gmail.com', 5000),
-(46, 'gfdfdg', 'sdadh@gmail.com', 5000),
-(47, 'gfdfdg', 'sdadh@gmail.com', 5000),
-(48, 'gfdfdg', 'sdadh@gmail.com', 5000),
-(49, 'gfdfdg', 'sdadh@gmail.com', 5000),
-(50, 'gfdfdg', 'sdadh@gmail.com', 5000),
-(51, 'gfdfdg', 'sdadh@gmail.com', 5000),
-(52, 'gfdfdg', 'sdadh@gmail.com', 5000),
-(53, 'gfdfdg', 'sdadh@gmail.com', 5000),
-(54, 'amar', 'amar@gmail.com', 45000),
-(55, 'hasjhaj', 'dgadhaj@gmail.com', 80000),
-(56, 'jhghjg', 'nitesh@gmail.com', 5000),
-(57, 'jhghjg', 'nitesh@gmail.com', 5000),
-(58, 'bbmbn', 'hbb@gmail.com', 5800),
-(59, 'JKJ', 'HKJHJKH@GMAIL.COM', 78000),
-(60, 'JKJ', 'HKJHJKH@GMAIL.COM', 78000),
-(61, 'JKHJ', 'HHJHJLKJ@GMAIL.COM', 78000),
-(62, 'jhgjjj', 'hjnnbhj@gmail.com', 90000),
-(63, 'jhgjjj', 'hjnnbhj@gmail.com', 90000),
-(64, 'rosy', 'rosy12345@gmail.com', 25000);
+(1, 'rosy', 'rosy12345@gmail.com', 25000);
+(2,'Nitesh','niteshsingh.ns44@gmail.com',30000);
+(3,'Sourav','sourav@gmail.com',45000);
+(4,'manish','manish@gmail.com',48000);
+(5,'surender','surender@gmail.com',55000);
+(6,'nisha','nisha@gmail.com',60000);
+(7,'yash','yash@gmail.com',65000);
+(8,'james','james@gmail.com',150000);
+(9,'satyam','satyam@gmail.com',95000);
+(10,'riya','riya@gmail.com',41000);
+
 
 -- --------------------------------------------------------
 
