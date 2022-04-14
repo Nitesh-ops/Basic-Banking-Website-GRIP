@@ -15,7 +15,7 @@ if(isset($_POST["query"]))
 else
 {
 	$query = "
-	SELECT * FROM new_account ORDER BY ID";
+SELECT * FROM new_account ORDER BY ID";
 }
 $result = mysqli_query($conn, $query);
 if(mysqli_num_rows($result) > 0)
